@@ -1,0 +1,15 @@
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\bin\Debug\net6.0\phonebook-homework.exe
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\bin\Debug\net6.0\phonebook-homework.deps.json
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\bin\Debug\net6.0\phonebook-homework.runtimeconfig.json
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\bin\Debug\net6.0\phonebook-homework.dll
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\bin\Debug\net6.0\phonebook-homework.pdb
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.csproj.AssemblyReference.cache
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.AssemblyInfoInputs.cache
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.AssemblyInfo.cs
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.csproj.CoreCompileInputs.cache
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.dll
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\refint\phonebook-homework.dll
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.pdb
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\phonebook-homework.genruntimeconfig.cache
+C:\Users\Alom - develop\source\repos\phonebook-homework\phonebook-homework\obj\Debug\net6.0\ref\phonebook-homework.dll
